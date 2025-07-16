@@ -1,0 +1,10 @@
+.index.header{
+    text-align: center;
+    font-size: 30px;
+    text-decoration-line: underline;
+    color: darkred;
+}
+
+.index.list {
+    font-size: 20px;
+}
