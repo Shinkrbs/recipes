@@ -1,10 +1,30 @@
+.index {
+    padding: 20px;
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 375px;
+}
+
+.index.card{
+    background-color: #ff9ea2;
+}
+
 .index.header{
     text-align: center;
+    padding: 1px;
+    margin-bottom: 10px;
+
     font-size: 30px;
-    text-decoration-line: underline;
+    width: auto;
+    height: 135px;
+    
+    background-color: #ffff;
     color: darkred;
 }
 
 .index.list {
+    background-color: #ffdcdb;
+    width: auto;
+    width: 250px;
     font-size: 20px;
 }
